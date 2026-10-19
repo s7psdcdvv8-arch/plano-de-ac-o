@@ -31,14 +31,23 @@ Uma sequência de planos curtos e fechados, cada um mostrando um detalhe do sobr
 ## Gancho (0 a 2 s)
 
 - **Visual:** close na mão girando a chave na fechadura, a porta abre e a luz entra.
-- **Texto na tela:** `2 SUÍTES EM 58 m². COMO? 👀`
+- **Texto na tela:** `ISSO É O QUE R$ 425 MIL COMPRAM EM SP 👇`
 - **Som:** clique da fechadura bem alto antes da música entrar.
+
+**Por que esse gancho:** é o formato "isso é o que R$ X compra em [lugar]", um dos ganchos de preço por bairro mais usados por corretores (está no nosso banco de ganchos, em "Comparação / Provocação"). Ele funciona porque mostra um número concreto logo de cara, e quem está procurando imóvel nessa faixa quer ver o que o dinheiro dele compra. As fontes também desaconselham abrir com "Confira este belíssimo imóvel" ou com cumprimento.
+
+**Alternativa para testar (A/B):** texto `QUANTO CUSTA? 👀` sobre o take mais bonito, com o preço só no final. Segura mais até o fim, mas atrai menos quem filtra por preço.
+
+**Fontes da pesquisa:**
+- [Reels imobiliário: 15 roteiros prontos para corretor](https://www.imoveis-sc.com.br/blog/marketing/reels-imobiliario)
+- [Instagram Reel Hooks: 6 Patterns That Win in 2026](https://creatorhouse.app/blog/instagram-reel-hooks-2026)
+- [3 Real Estate Video Hooks That Actually Work](https://therealestatetrainer.com/3-real-estate-video-hooks-that-actually-work-and-get-views/)
 
 ## Lista de takes (ordem de edição)
 
 | # | Tempo | Take | Movimento de câmera | Texto na tela |
 |---|---|---|---|---|
-| 1 | 0-2 s | Chave girando na fechadura e porta abrindo | Close parado, a porta abre para dentro | 2 SUÍTES EM 58 m². COMO? 👀 |
+| 1 | 0-2 s | Chave girando na fechadura e porta abrindo | Close parado, a porta abre para dentro | ISSO É O QUE R$ 425 MIL COMPRAM EM SP 👇 |
 | 2 | 2-4 s | Piso de porcelanato da sala, com reflexo da luz da janela | Câmera baixa, deslizando rente ao chão | PORCELANATO |
 | 3 | 4-6 s | Sala inteira | Sobe do chão até a altura dos olhos | SALA |
 | 4 | 6-8 s | Torneira do lavabo abrindo | Close parado | LAVABO |
@@ -47,12 +56,12 @@ Uma sequência de planos curtos e fechados, cada um mostrando um detalhe do sobr
 | 7 | 12-14 s | Degraus da escada | Câmera baixa subindo junto com os degraus | |
 | 8 | 14-16 s | Cama da suíte 1 e porta do banheiro | Desliza para a direita | SUÍTE 1 |
 | 9 | 16-18 s | Pia do banheiro da suíte 2 com luz acesa | Aproxima devagar | SUÍTE 2 |
-| 10 | 18-20 s | Fachada do sobrado com a vaga | Recua (afasta da fachada) | contador sobe até **R$ 425.000** |
+| 10 | 18-20 s | Fachada do sobrado com a vaga | Recua (afasta da fachada) | 2 SUÍTES · 3 BANHEIROS · 58 m² |
 | 11 | 20-22 s | Fachada parada | Parado | COMENTE "SOBRADO" 📩 |
 
 ## Legenda pronta
 
-> 2 suítes em 58 m²? Esse sobrado prova que dá. 👀
+> Isso é o que R$ 425 mil compram em São Paulo. 👀
 >
 > 📍 Parque São Lucas, zona leste de SP
 > 🛏️ 2 suítes + lavabo
