@@ -10,6 +10,7 @@ Quem assiste é quem está andando pelo sobrado. A câmera é o olhar da pessoa,
 - **Formato:** Reels vertical 9:16, 35 a 40 segundos.
 - **Câmera:** celular na altura dos olhos, com estabilizador ou gimbal, andando devagar. A mão de quem grava pode aparecer abrindo portão e portas. O corretor não aparece; ele só narra.
 - **Áudio:** locução em voz de conversa, falando com "você", mais o som ambiente (portão, passos, porta). Música em alta bem baixa (10 a 15%).
+- **Legendas:** a locução inteira ganha legenda dinâmica (palavra por palavra), no centro inferior da tela. Os rótulos dos cômodos ficam pequenos, no canto de cima, para não brigar com a legenda.
 - **Motion design:** pouco, para não quebrar a imersão. Rótulos pequenos dos cômodos e o contador do preço no fim (guia `05-motion-design.md`, estilo "Tech / Infográfico").
 
 ## Dados do imóvel (do anúncio)

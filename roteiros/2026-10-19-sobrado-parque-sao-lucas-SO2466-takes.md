@@ -11,6 +11,7 @@ Uma sequência de planos curtos e fechados, cada um mostrando um detalhe do sobr
 - **Câmera:** movimentos lentos e limpos (deslizar, subir, aproximar), de preferência com gimbal. Cada take tem um único movimento.
 - **Transições por movimento:** o fim de um take e o começo do próximo vão na mesma direção (ex.: desliza para a direita → próximo take começa deslizando para a direita).
 - **Áudio:** fala do corretor no gancho (0 a 2 s) e no CTA (20 a 22 s), em off, por cima dos takes. No meio, só música em alta em volume normal. Durante as falas, a música baixa para 10 a 15%. Sons de portão e porta podem entrar como efeito.
+- **Legendas:** toda fala ganha legenda dinâmica (palavra por palavra). Nos takes sem fala, entra só o rótulo curto do cômodo.
 - **Motion design:** texto curto em caixa alta e contadores de números (guia `05-motion-design.md`, estilo "Minimalista Elegante" para os rótulos e "Tech / Infográfico" para o preço).
 
 ## Dados do imóvel (do anúncio)
@@ -32,7 +33,7 @@ Uma sequência de planos curtos e fechados, cada um mostrando um detalhe do sobr
 
 - **Visual:** close na mão girando a chave na fechadura, a porta abre e a luz entra.
 - **Fala (voz em off):** "Isso é o que 425 mil compram em São Paulo."
-- **Texto na tela:** `ISSO É O QUE R$ 425 MIL COMPRAM EM SP 👇` (o mesmo texto da fala, para quem assiste sem som)
+- **Texto na tela:** legenda dinâmica da fala, palavra por palavra, com destaque em **R$ 425 MIL**
 - **Som:** clique da fechadura, a fala por cima e a música entra com tudo no take 2.
 
 **Por que esse gancho:** é o formato "isso é o que R$ X compra em [lugar]", um dos ganchos de preço por bairro mais usados por corretores (está no nosso banco de ganchos, em "Comparação / Provocação"). Ele funciona porque mostra um número concreto logo de cara, e quem está procurando imóvel nessa faixa quer ver o que o dinheiro dele compra. As fontes também desaconselham abrir com "Confira este belíssimo imóvel" ou com cumprimento.
@@ -50,7 +51,7 @@ Uma sequência de planos curtos e fechados, cada um mostrando um detalhe do sobr
 
 | # | Tempo | Take | Movimento de câmera | Texto na tela | Fala |
 |---|---|---|---|---|---|
-| 1 | 0-2 s | Chave girando na fechadura e porta abrindo | Close parado, a porta abre para dentro | ISSO É O QUE R$ 425 MIL COMPRAM EM SP 👇 | "Isso é o que 425 mil compram em São Paulo." |
+| 1 | 0-2 s | Chave girando na fechadura e porta abrindo | Close parado, a porta abre para dentro | Legenda dinâmica da fala (destaque em R$ 425 MIL) | "Isso é o que 425 mil compram em São Paulo." |
 | 2 | 2-4 s | Piso de porcelanato da sala, com reflexo da luz da janela | Câmera baixa, deslizando rente ao chão | PORCELANATO | (só música) |
 | 3 | 4-6 s | Sala inteira | Sobe do chão até a altura dos olhos | SALA | (só música) |
 | 4 | 6-8 s | Torneira do lavabo abrindo | Close parado | LAVABO | (só música) |
@@ -60,7 +61,7 @@ Uma sequência de planos curtos e fechados, cada um mostrando um detalhe do sobr
 | 8 | 14-16 s | Cama da suíte 1 e porta do banheiro | Desliza para a direita | SUÍTE 1 | (só música) |
 | 9 | 16-18 s | Pia do banheiro da suíte 2 com luz acesa | Aproxima devagar | SUÍTE 2 | (só música) |
 | 10 | 18-20 s | Fachada do sobrado com a vaga | Recua (afasta da fachada) | 2 SUÍTES · 3 BANHEIROS · 58 m² | (só música) |
-| 11 | 20-22 s | Fachada parada | Parado | COMENTE "SOBRADO" 📩 | "Comenta SOBRADO que eu te mando tudo no direct." |
+| 11 | 20-22 s | Fachada parada | Parado | Legenda dinâmica da fala (destaque em SOBRADO) | "Comenta SOBRADO que eu te mando tudo no direct." |
 
 ## Legenda pronta
 
