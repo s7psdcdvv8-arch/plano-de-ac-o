@@ -2,14 +2,15 @@
 
 ## Estilo do vídeo
 
-**Tour "Quanto custa viver aqui?" gravado em takes POV, com revelação do preço no final.**
+**Tour POV (primeira pessoa).**
 
-- **Por que esse estilo:** o sobrado tem 2 suítes em 58 m², o que surpreende para o tamanho. Segurar o preço até o fim faz a pessoa assistir inteiro tentando adivinhar (guia `01-tour-de-imoveis.md`, estrutura 1 + estrutura 2).
+Quem assiste é quem está andando pelo sobrado. A câmera é o olhar da pessoa, numa caminhada contínua da rua até a última suíte, com o preço revelado no final (guia `01-tour-de-imoveis.md`, estrutura 2 "Tour POV").
+
+- **Não é vídeo de takes:** não tem planos soltos de detalhe nem cortes rápidos. É uma caminhada só, com no máximo 3 emendas escondidas (em portas e na escada).
 - **Formato:** Reels vertical 9:16, 35 a 40 segundos.
-- **Câmera:** celular na altura dos olhos, andando devagar (POV). Corretor aparece só no gancho e no CTA.
-- **Cortes:** de 1,5 a 2,5 segundos no corpo (guia `02-takes-e-ganchos-de-retencao.md`).
-- **Áudio:** locução do corretor por cima dos takes e música em alta bem baixa (10 a 15%).
-- **Motion design:** estilo "Tech / Infográfico" do guia `05-motion-design.md`. Contadores de números para 58 m², 2 suítes e o preço no final.
+- **Câmera:** celular na altura dos olhos, com estabilizador ou gimbal, andando devagar. A mão de quem grava pode aparecer abrindo portão e portas. O corretor não aparece; ele só narra.
+- **Áudio:** locução em voz de conversa, falando com "você", mais o som ambiente (portão, passos, porta). Música em alta bem baixa (10 a 15%).
+- **Motion design:** pouco, para não quebrar a imersão. Rótulos pequenos dos cômodos e o contador do preço no fim (guia `05-motion-design.md`, estilo "Tech / Infográfico").
 
 ## Dados do imóvel (do anúncio)
 
@@ -28,55 +29,55 @@
 
 ## Gancho (0 a 3 s)
 
-- **Visual:** POV abrindo o portão do sobrado e entrando direto na sala.
-- **Fala:** "Duas suítes, quintal e aceita pet. Em São Paulo. Chuta quanto custa."
-- **Texto na tela:** `2 SUÍTES EM SP. CHUTA O PREÇO 👇`
+- **Visual:** a mão abre o portão e a câmera já avança para a porta de entrada.
+- **Fala:** "Imagina chegar em casa e ter duas suítes te esperando. Em São Paulo."
+- **Texto na tela:** `VOCÊ CHEGANDO NA SUA CASA NOVA 🔑`
 
-## Roteiro (takes na ordem de gravação)
+## Caminhada (roteiro contínuo)
 
-| Tempo | Take | Fala / locução | Texto na tela |
+| Tempo | Onde a câmera está | Locução | Texto na tela |
 |---|---|---|---|
-| 0-3 s | 1. Portão abrindo, entrada na sala (POV) | "Duas suítes, quintal e aceita pet. Em São Paulo. Chuta quanto custa." | 2 SUÍTES EM SP. CHUTA O PREÇO 👇 |
-| 3-6 s | 2. Panorâmica lenta da sala, foco no piso | "Sala com porcelanato…" | PORCELANATO |
-| 6-9 s | 3. Porta do lavabo abrindo | "…lavabo pra visita não subir…" | LAVABO |
-| 9-12 s | 4. Cozinha, câmera passando rente à bancada | "…cozinha…" | |
-| 12-15 s | 5. Área de serviço e porta para o quintal | "…área de serviço e quintal, que o seu pet vai amar." | QUINTAL + ACEITA PET 🐶 |
-| 15-18 s | 6. Subindo a escada (POV, passos visíveis) | "Lá em cima é que fica bom." | |
-| 18-22 s | 7. Porta da suíte 1 abrindo, entra até o banheiro | "Suíte um, com banheiro." | SUÍTE 1 |
-| 22-26 s | 8. Suíte 2, mesmo movimento | "Suíte dois, também com banheiro. Cada um com o seu." | SUÍTE 2 |
-| 26-29 s | 9. Volta para fora: fachada e vaga, câmera recuando | "Tem vaga pro carro e fica no Parque São Lucas." | 58 m² · 1 VAGA · PQ. SÃO LUCAS |
-| 29-33 s | 10. Corretor na frente do sobrado, olhando para a câmera | "E o valor é…" (pausa) "quatrocentos e vinte e cinco mil. E aceita financiamento." | contador sobe até **R$ 425.000** |
-| 33-38 s | 11. Corretor, plano médio | "Comenta SOBRADO que eu te mando as fotos e a ficha completa no direct." | COMENTE "SOBRADO" |
+| 0-3 s | Portão abrindo, avança até a porta | "Imagina chegar em casa e ter duas suítes te esperando. Em São Paulo." | VOCÊ CHEGANDO NA SUA CASA NOVA 🔑 |
+| 3-8 s | Abre a porta e entra na sala, olha o piso e o ambiente | "Você entra e já dá de cara com a sala, toda no porcelanato." | SALA |
+| 8-11 s | Vira para o lado e passa pela porta do lavabo | "Visita usa o lavabo aqui embaixo, ninguém precisa subir." | LAVABO |
+| 11-15 s | Segue para a cozinha, passa rente à bancada | "Cozinha do lado…" | COZINHA |
+| 15-19 s | Atravessa a área de serviço e abre a porta do quintal | "…área de serviço e o quintal. E sim, pode trazer o seu pet." | QUINTAL · ACEITA PET 🐶 |
+| 19-21 s | **Emenda 1** na porta do quintal. Volta e sobe a escada, passos visíveis | "Agora sobe comigo." | |
+| 21-26 s | **Emenda 2** no topo da escada. Abre a suíte 1 e entra até o banheiro | "Primeira suíte, com banheiro só seu." | SUÍTE 1 |
+| 26-30 s | **Emenda 3** na porta. Entra na suíte 2 | "E a segunda também é suíte. Cada um com o seu banheiro." | SUÍTE 2 |
+| 30-34 s | Para na janela da suíte 2 e olha para fora, segura o plano | "Isso tudo no Parque São Lucas, com vaga pro carro. E custa…" (pausa) "quatrocentos e vinte e cinco mil." | contador sobe até **R$ 425.000** |
+| 34-38 s | Câmera parada na janela | "Você se vê morando aqui? Comenta VISITA que eu te mando tudo no direct." | COMENTE "VISITA" |
 
-**Direção do corretor** (guia `03-atuacao-e-direcao-de-cena.md`): tom de conversa, sem voz de locutor. Olhar fixo na lente no gancho e no CTA. Na revelação do preço, fazer uma pausa de meio segundo antes do número.
+**Direção da locução** (guia `03-atuacao-e-direcao-de-cena.md`): falar como quem está guiando um amigo, sempre com "você". Ritmo calmo, acompanhando os passos. Pausa de meio segundo antes do preço.
 
 ## Legenda pronta
 
-> Duas suítes em 58 m²? Pois é. 🏡
+> Imagina chegar em casa e ter duas suítes te esperando. 🔑
 >
 > Sobrado no Parque São Lucas, zona leste de SP:
 > ✅ 2 suítes + lavabo
 > ✅ Sala com porcelanato e cozinha
 > ✅ Área de serviço e quintal
 > ✅ Aceita pet 🐶
-> ✅ 1 vaga
+> ✅ 1 vaga · 58 m²
 >
 > R$ 425.000 e aceita financiamento.
 >
-> Quer as fotos e a ficha completa? Comenta **SOBRADO** que eu te chamo no direct. 📩
+> Você se vê morando aqui? Comenta **VISITA** que eu te mando as fotos e a ficha completa no direct. 📩
 >
 > Ref. SO2466 · Vilela Imóveis · CRECI 41.927-F
 >
-> #sobrado #imoveissp #zonaleste #parquesaolucas #tourimovel #casapropria #saidoaluguel
+> #tourpov #tourimovel #sobrado #imoveissp #zonaleste #parquesaolucas #casapropria
 
 ## CTA
 
-Comentar **SOBRADO** para receber fotos e ficha técnica no direct.
+Comentar **VISITA** para receber fotos e ficha completa no direct.
 
 ## Checklist de gravação
 
-- [ ] Gravar na vertical, 4K ou 1080p, a 30 ou 60 fps
-- [ ] Luz natural: abrir janelas e acender todas as luzes
-- [ ] Cada take com 2 a 3 segundos de sobra no começo e no fim para o corte
-- [ ] Gravar o take 10 (preço) duas vezes: uma com fala e outra só reagindo
-- [ ] Gravar takes extras de detalhe (torneira, piso, maçaneta) para cobrir cortes
+- [ ] Gravar na vertical, 1080p ou 4K, a 60 fps (deixa a caminhada mais suave)
+- [ ] Ensaiar o caminho antes, sem gravar, para não hesitar nas viradas
+- [ ] Abrir todas as portas e janelas e acender todas as luzes antes de começar
+- [ ] Andar devagar, com passos curtos, e virar o corpo inteiro (não só o celular)
+- [ ] Nas emendas, terminar um trecho e começar o próximo no mesmo ponto e enquadramento
+- [ ] Gravar a locução depois, em lugar silencioso, assistindo à caminhada
