@@ -1,10 +1,10 @@
-# Roteiro: takes com corretor entrando, apê 3 quartos de 165 m² na Vila Prudente
+# Roteiro: takes com corretor, apê 3 quartos de 165 m² na Mooca
 
-Imóvel: [QuintoAndar 895204806](https://www.quintoandar.com.br/imovel/895204806/comprar/apartamento-3-quartos-vila-prudente-sao-paulo). Dados lidos do anúncio em 23/10/2026.
+Imóvel: [QuintoAndar 895204806](https://www.quintoandar.com.br/imovel/895204806/comprar/apartamento-3-quartos-vila-prudente-sao-paulo). Dados lidos do anúncio em 23/10/2026. O QuintoAndar classifica como Vila Prudente, mas o Bruno confirmou que é **Mooca** (Av. Paes de Barros).
 
 ## Estilo do vídeo
 
-**Takes com o corretor entrando no meio (não é tour).** O vídeo abre só com takes curtos do imóvel e a voz do Bruno em off. Aos 6 s o Bruno entra em cena pela primeira vez, como quem "assume" a conversa. Depois disso o padrão é fala, imóvel, fala, imóvel, e ele volta no fim para explicar a próxima etapa (o CTA). Takes de 1 a 2 s, com movimento, sem caminhada contínua. Toda fala tem legenda dinâmica.
+**Takes com o corretor (não é tour).** O vídeo abre com o Bruno em cena fazendo o gancho visual (a trena atravessando a sala). Depois o padrão é fala, imóvel, fala, imóvel, e ele volta no fim para explicar a próxima etapa (o CTA). Takes de 1 a 2 s, com movimento, sem caminhada contínua. Toda fala tem legenda dinâmica.
 
 ---
 
@@ -19,7 +19,7 @@ Imóvel: [QuintoAndar 895204806](https://www.quintoandar.com.br/imovel/895204806
 | IPTU | 12x R$ 284 | |
 | Vaga | 1 | Objeção para família de 3 quartos |
 | Andar | "12º a 15º" no anúncio; a descrição fala em 14º | Confirmar |
-| Endereço | Avenida Paes de Barros, Vila Prudente. Edifício Monterrey | |
+| Endereço | Avenida Paes de Barros, **Mooca** (o anúncio diz Vila Prudente). Edifício Monterrey | Corrigido pelo Bruno |
 | Estado | Piso de madeira maciça original restaurado, banheiros reformados, aquecimento a gás, elétrica e hidráulica revisadas | Diz o dono, não visto |
 | Cômodos | Sala de estar e jantar grandes, cozinha com copa e despensa, área de serviço separada, hall privativo, armários nos quartos e na cozinha | |
 | Vista | "Vista da zona leste" (andar alto) | |
@@ -28,8 +28,8 @@ Imóvel: [QuintoAndar 895204806](https://www.quintoandar.com.br/imovel/895204806
 | Publicado | "há 10 meses" | Imóvel parado há algum tempo |
 
 **Comparação de preço (a principal força):**
-- Média do m² na Vila Prudente: **R$ 7.730** ([Loft](https://loft.com.br/onde-morar/sp/sao-paulo/vila-prudente/385D01B7)), R$ 8.214 a R$ 8.577 ([QuintoAndar](https://www.quintoandar.com.br/comprar/imovel/vila-prudente-sao-paulo-sp-brasil/apartamento)).
-- Conta: 165 m² × R$ 7.730 = **R$ 1,27 milhão**. Pelo anúncio, ele sai por R$ 845 mil, cerca de **um terço abaixo** da média.
+- Média do m² de apartamento na Mooca: **R$ 9.077** (QuintoAndar, FAQ) e R$ 9.600 (QuintoAndar, média do bairro) ([fonte](https://www.quintoandar.com.br/comprar/imovel/mooca-sao-paulo-sp-brasil/apartamento), lido em 23/10/2026).
+- Conta com o número mais baixo: 165 m² × R$ 9.077 = **R$ 1,5 milhão**. Pelo anúncio, ele sai por R$ 845 mil, cerca de **44% abaixo** da média.
 - Honestidade: a média junta prédio novo e antigo, então não é uma avaliação. Prédio antigo costuma ter m² mais barato. É por isso que o roteiro **assume** que o prédio é antigo e transforma isso no argumento ("os apês antigos eram maiores").
 
 **Pontos fortes reais:** tamanho, preço por m², taco original restaurado, cozinha com copa e despensa (raro hoje), andar alto com vista, reformas de banheiro e de instalações.
@@ -82,9 +82,9 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 
 ## 4. Mecanismos criativos que servem a este imóvel
 
-- **Âncora de preço (3.1 + ref. 4):** dizer o valor "pela média" antes do valor real. O número maior faz o real parecer o que é: um terço abaixo.
+- **Âncora de preço (3.1 + ref. 4):** dizer o valor "pela média" antes do valor real. O número maior faz o real parecer o que é: quase metade.
 - **Escala (3.12, ref. 5):** a sala é o ativo. Plano bem aberto com o Bruno pequeno no fundo mostra 165 m² sem precisar de texto.
-- **Corretor que entra (ref. 1 e 2):** a voz em off cria a pergunta "quem está falando?" e a entrada do Bruno aos 6 s quebra o padrão bem quando a atenção cai.
+- **Corretor em ação no quadro 0 (refs. 1, 2 e Dimas/tobogã):** o Bruno já está fazendo algo ligado ao diferencial (medir a sala) no primeiro quadro. É o mesmo princípio do corretor que desce o tobogã: a ação mostra o ponto forte antes de qualquer palavra.
 - **Explicação honesta do "porquê" (refs. 7 a 10):** "prédio antigo" deixa de ser defeito e vira o motivo de ser grande. Responde a desconfiança antes de ela virar comentário.
 - **CTA como próxima etapa:** o Bruno explica o que acontece depois do contato, o que tira o medo de "chamar e ser pressionado".
 
@@ -94,8 +94,8 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 
 ### A. "O preço que a média diz × o preço real" (recomendado)
 - **Formato:** takes com corretor entrando no meio.
-- **Ideia:** a conta do m² abre o vídeo, o Bruno entra para revelar o preço real e explicar por quê.
-- **Gancho:** voz em off sobre a sala vazia: "Pela média da Vila Prudente, esse apartamento custaria um milhão e duzentos." Na tela: "165 m² · Vila Prudente" e o contador subindo até R$ 1.270.000.
+- **Ideia:** o Bruno mede a sala com uma trena, a conta do m² vem junto, e ele revela o preço real e explica por quê.
+- **Gancho:** o Bruno puxando a trena de uma ponta da sala vazia e a fita atravessando o quadro: "Pela média da Mooca, esse apartamento custaria um milhão e meio." Na tela: "165 m² · Mooca" e o contador subindo até R$ 1.500.000.
 - **Mecanismo:** âncora de preço + escala + revelação.
 - **Por que serve:** o preço por m² é o fato mais forte e verificável do imóvel. Repete o que já venceu no perfil do Bruno (preço que surpreende + ele em cena).
 - **Risco:** se a conta parecer enganosa, vira crítica. Por isso a fonte aparece na tela e o Bruno fala "prédio antigo" logo depois.
@@ -157,10 +157,10 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 
 | # | Tempo | Bloco | O que aparece (câmera) | Fala exata | Na tela |
 |---|---|---|---|---|---|
-| 1 | 0-2,5 s | 🏠 Take + voz em off | Porta do hall abrindo por dentro e a câmera já empurrando para a sala vazia, plano bem aberto, piso de madeira brilhando | (off) "Pela média da Vila Prudente, esse apartamento custaria…" | "165 m² · Vila Prudente" fixo no topo. Legenda dinâmica |
-| 2 | 2,5-4 s | 🏠 Take + voz em off | Chicote da sala de estar para a de jantar | (off) "…um milhão e duzentos mil reais." | Contador rolando até **R$ 1.270.000**. Embaixo, pequeno: "média Loft: R$ 7.730/m²" |
-| 3 | 4-6 s | 🏠 Take | Câmera baixa deslizando no piso de madeira | (música, sem fala) | MADEIRA MACIÇA ORIGINAL |
-| 4 | 6-9 s | 🗣️ Bruno entra | O Bruno entra pelo lado no fundo da sala e fala andando para a câmera; ele fica pequeno no quadro, com a sala inteira atrás | "Só que ele tá à venda por oitocentos e quarenta e cinco mil." | Contador cai até **R$ 845.000**, em verde |
+| 1 | 0-2 s | 🗣️ Bruno + gancho visual | Celular fixo perto do chão num canto da sala vazia. O Bruno está no canto oposto, já em movimento, puxando a fita de uma trena longa (10 m), que atravessa o quadro em direção à lente. Ele está pequeno no quadro, com a sala inteira atrás | "Pela média da Mooca, esse apartamento custaria…" | "165 m² · Mooca" fixo no topo. Legenda dinâmica |
+| 2 | 2-4 s | 🗣️ Bruno | Mesmo plano. Ele solta a trena, a fita recolhe com o estalo (som natural, sem música por cima nesse instante) | "…um milhão e meio." | Contador rolando até **R$ 1.500.000**. Embaixo, pequeno: "média QuintoAndar Mooca: R$ 9.077/m²" |
+| 3 | 4-5 s | 🏠 Take | Câmera baixa deslizando no piso de madeira | (música) | MADEIRA MACIÇA ORIGINAL |
+| 4 | 5-9 s | 🗣️ Bruno | O Bruno andando em direção à câmera pela sala, plano aberto | "Só que ele tá à venda por oitocentos e quarenta e cinco mil." | Contador cai até **R$ 845.000**, em verde |
 | 5 | 9-10 s | 🏠 Take | Corredor dos quartos, de baixo para cima | (música) | 3 QUARTOS · 1 SUÍTE |
 | 6 | 10-11 s | 🏠 Take | Suíte, chicote até o banheiro reformado | (música) | BANHEIRO REFORMADO |
 | 7 | 11-14 s | 🗣️ Bruno | Bruno na cozinha, apoiado na bancada, plano médio com a copa atrás | "Por que tão barato? Prédio antigo. E é por isso que ele é desse tamanho." | Legenda dinâmica; "PRÉDIO ANTIGO" em destaque |
@@ -172,7 +172,9 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 | 13 | 21,5-24 s | 🗣️ Bruno | Bruno na sala, plano americano | "Agora, sendo honesto: condomínio de mil e seiscentos, uma vaga e sem varanda." | Os 3 itens aparecendo um a um, em branco (sem cor de alerta) |
 | 14 | 24-32 s | 🗣️ Bruno, CTA da próxima etapa | Mesmo lugar, um passo mais perto da lente | "Se fez sentido pra você, a próxima etapa é simples: comenta VISITA ou me chama no direct. Eu te mando a planta, a simulação do financiamento, e a gente marca pra você ver essa sala ao vivo." | "Comenta VISITA" na caixa de comentário digitando. Fim: "Vilela Imóveis · CRECI 41.927-F" |
 
-**Por que essa ordem:** a informação principal (o preço real) chega aos 6-9 s, antes da metade, como pede o banco de ganchos (3.2: revelar até a metade). O Bruno volta 5 vezes, e os blocos de takes nunca passam de 3 cortes. Os defeitos aparecem antes do CTA para quem chamar já saber o condomínio. Isso filtra curioso e evita frustração na visita.
+**Gancho visual reserva** (se a trena não render bem no ensaio): o Bruno pequeno lá no fundo da sala vazia bate uma palma e o eco da sala responde, já falando a mesma frase. Os dois mostram o tamanho antes da primeira palavra (mecanismo 3.12).
+
+**Por que essa ordem:** o Bruno abre em ação, como pedido, e a fita atravessando a sala é o tamanho virando imagem. A informação principal (o preço real) chega aos 5-9 s, antes da metade, como pede o banco de ganchos (3.2: revelar até a metade). O Bruno volta 5 vezes, e os blocos de takes nunca passam de 3 cortes. Os defeitos aparecem antes do CTA para quem chamar já saber o condomínio. Isso filtra curioso e evita frustração na visita.
 
 **Se o preço mudar:** refazer a conta do contador e a fala do bloco 4. Se o desconto em relação à média ficar pequeno (menos de 15%), trocar para o conceito B ou C.
 
@@ -182,25 +184,25 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 
 | | Instagram | TikTok | Por quê |
 |---|---|---|---|
-| Quadro 0 | Texto "165 m² · Vila Prudente" + contador já começando | Mesma imagem, mas com a voz começando no frame 0 sem respiro | No TikTok do Bruno o público sai em 0:01-0:02; no IG os vencedores mostram o motivo no 1º quadro em texto |
+| Quadro 0 | O Bruno com a trena em movimento + texto "165 m² · Mooca" | Mesma imagem, mas com a voz começando no frame 0 sem respiro | No TikTok do Bruno o público sai em 0:01-0:02; no IG os vencedores mostram o motivo no 1º quadro em texto |
 | Duração | 30-32 s, como acima | Pode ir a 40-45 s: adicionar 2 takes da suíte e da academia e uma fala a mais sobre as reformas (elétrica e hidráulica) | Tours longos de imóveis comuns da ZL vencem no TikTok (busca) |
-| Legenda do post | "Apê de 165 m² na Vila Prudente por R$ 845 mil. 3 quartos, suíte, vista. Comenta VISITA." | "Apartamento 3 quartos 165m² Vila Prudente zona leste SP R$ 845 mil" (tipo + bairro + preço) | Legenda com tipo + bairro + preço é o padrão dos tours ZL que vencem no TikTok |
+| Legenda do post | "Apê de 165 m² na Mooca por R$ 845 mil. 3 quartos, suíte, vista. Comenta VISITA." | "Apartamento 3 quartos 165m² Mooca zona leste SP R$ 845 mil" (tipo + bairro + preço) | Legenda com tipo + bairro + preço é o padrão dos tours ZL que vencem no TikTok |
 | Capa | O Bruno na sala, pequeno no quadro, com "165 m² por R$ 845 mil" | Não se aplica | Testa a hipótese do raio-X (capa "COMPRE · REF" coincidiu com a queda) |
 | CTA | "Comenta VISITA" (resposta por direct) | "Comenta VISITA" e link na bio | |
 | Teste extra | Trial Reels com a abertura do conceito E ("Não compre esse apê se…") só para não seguidores | | Compara duas aberturas sem repostar o mesmo vídeo (repostar já falhou) |
 
 ## 9. Plano de teste e métricas
 
-- **Hipótese:** a âncora "preço pela média → preço real" com o Bruno entrando aos 6 s segura mais que a mediana dele e gera mensagens.
+- **Hipótese:** a âncora "preço pela média → preço real" com o Bruno medindo a sala no quadro 0 segura mais que a mediana dele e gera mensagens.
 - **Comparar com:** IG, mediana de 1,2 mil em out/26 (medir pelos insights de não seguidores, não pela grade, que soma FB e anúncio); TikTok, mediana de 403 views e saída em 0:01-0:02.
 - **Olhar em 48 h e 7 dias:** retenção aos 2 s e aos 9 s (o preço real foi visto?), tempo médio, % até o fim, envios e compartilhamentos por alcance, salvamentos, comentários "VISITA", mensagens, seguidores ganhos.
 - **Ler os comentários:** quantos falam do condomínio (sinal de que o filtro honesto funcionou) e quantos pedem visita.
 - **Anúncio, se for impulsionar:** objetivo mensagens + público SP (12 a 23 conversas por vídeo no histórico). Não usar visitas ao perfil + semelhante (65% fora de SP).
-- **Registro:** anotar no raio-X (seção 7) como "conceito A, mecanismos 3.1 + 3.12, corretor entrando aos 6 s".
+- **Registro:** anotar no raio-X (seção 7) como "conceito A, mecanismos 3.1 + 3.12, gancho visual da trena".
 
 ## Lista de takes para gravar (checklist do dia)
 
-1. Porta do hall abrindo por dentro, câmera entrando na sala (3 tentativas)
+1. Gancho: trena atravessando a sala até a lente (5 tentativas; levar uma trena de 10 m) e a reserva da palma com eco
 2. Sala, plano bem aberto, do canto mais distante (com e sem o Bruno)
 3. Chicote sala de estar → jantar
 4. Piso de madeira, câmera baixa
