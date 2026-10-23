@@ -4,7 +4,7 @@ Imóvel: [QuintoAndar 895204806](https://www.quintoandar.com.br/imovel/895204806
 
 ## Estilo do vídeo
 
-**Takes com o corretor (não é tour).** O vídeo abre com o Bruno em cena fazendo o gancho visual (a trena atravessando a sala). Depois o padrão é fala, imóvel, fala, imóvel, e ele volta no fim para explicar a próxima etapa (o CTA). Takes de 1 a 2 s, com movimento, sem caminhada contínua. Toda fala tem legenda dinâmica.
+**Takes com o corretor (não é tour).** O vídeo abre com o Bruno em close fechado fazendo o gancho visual (medindo a câmera com a trena). Depois o padrão é fala, imóvel, fala, imóvel, e ele volta no fim para explicar a próxima etapa (o CTA). Takes de 1 a 2 s, com movimento, sem caminhada contínua. Toda fala tem legenda dinâmica.
 
 ---
 
@@ -94,8 +94,8 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 
 ### A. "O preço que a média diz × o preço real" (recomendado)
 - **Formato:** takes com corretor entrando no meio.
-- **Ideia:** o Bruno mede a sala com uma trena, a conta do m² vem junto, e ele revela o preço real e explica por quê.
-- **Gancho:** o Bruno puxando a trena de uma ponta da sala vazia e a fita atravessando o quadro: "Pela média da Mooca, esse apartamento custaria um milhão e meio." Na tela: "165 m² · Mooca" e o contador subindo até R$ 1.500.000.
+- **Ideia:** o Bruno, em close, mede a câmera com uma trena, a conta do m² vem junto, e ele revela o preço real e explica por quê.
+- **Gancho:** close fechado, o Bruno medindo a lente com a trena, solta e fala: "Pela média da Mooca, esse apartamento custaria um milhão e meio." Na tela: "165 m² · Mooca" e o contador subindo até R$ 1.500.000.
 - **Mecanismo:** âncora de preço + escala + revelação.
 - **Por que serve:** o preço por m² é o fato mais forte e verificável do imóvel. Repete o que já venceu no perfil do Bruno (preço que surpreende + ele em cena).
 - **Risco:** se a conta parecer enganosa, vira crítica. Por isso a fonte aparece na tela e o Bruno explica logo depois que é um apê "de uma época em que se fazia apartamento grande".
@@ -157,9 +157,9 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 
 | # | Tempo | Bloco | O que aparece (câmera) | Fala exata | Na tela |
 |---|---|---|---|---|---|
-| 1 | 0-2 s | 🗣️ Bruno + gancho visual | Celular fixo perto do chão num canto da sala vazia. O Bruno está no canto oposto, já em movimento, puxando a fita de uma trena longa (10 m), que atravessa o quadro em direção à lente. Ele está pequeno no quadro, com a sala inteira atrás | "Pela média da Mooca, esse apartamento custaria…" | "165 m² · Mooca" fixo no topo. Legenda dinâmica |
-| 2 | 2-4 s | 🗣️ Bruno | Mesmo plano. Ele solta a trena, a fita recolhe com o estalo (som natural, sem música por cima nesse instante) | "…um milhão e meio." | Contador rolando até **R$ 1.500.000**. Embaixo, pequeno: "média QuintoAndar Mooca: R$ 9.077/m²" |
-| 3 | 4-5 s | 🏠 Take | Câmera baixa deslizando no piso de madeira | (música) | MADEIRA MACIÇA ORIGINAL |
+| 1 | 0-2 s | 🗣️ Bruno + gancho visual | **Close fechado** no rosto do Bruno. Ele puxa a fita da trena e encosta a ponta na lente, como se estivesse medindo a câmera, olhando para a fita com cara de conta | "Pela média da Mooca…" | "165 m² · Mooca" fixo no topo. Legenda dinâmica |
+| 2 | 2-4 s | 🗣️ Bruno | Ele solta a trena, a fita recolhe com o estalo (som natural, sem música nesse instante) e ele olha para a lente | "…esse apartamento custaria um milhão e meio." | Contador rolando até **R$ 1.500.000**. Embaixo, pequeno: "média QuintoAndar Mooca: R$ 9.077/m²" |
+| 3 | 4-5 s | 🏠 Take | Corte seco do close para a sala inteira, câmera baixa deslizando no piso de madeira (o contraste close → sala mostra o tamanho) | (música) | MADEIRA MACIÇA ORIGINAL |
 | 4 | 5-9 s | 🗣️ Bruno | O Bruno andando em direção à câmera pela sala, plano aberto | "Só que ele tá à venda por oitocentos e quarenta e cinco mil." | Contador cai até **R$ 845.000**, em verde |
 | 5 | 9-10 s | 🏠 Take | Corredor dos quartos, de baixo para cima | (música) | 3 QUARTOS · 1 SUÍTE |
 | 6 | 10-11 s | 🏠 Take | Suíte, chicote até o banheiro reformado | (música) | BANHEIRO REFORMADO |
@@ -172,9 +172,9 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 | 13 | 21,5-24 s | 🗣️ Bruno | Bruno na sala, plano americano | "Agora, sendo honesto: condomínio de mil e seiscentos, uma vaga e sem varanda." | Os 3 itens aparecendo um a um, em branco (sem cor de alerta) |
 | 14 | 24-32 s | 🗣️ Bruno, CTA da próxima etapa | Mesmo lugar, um passo mais perto da lente | "Se fez sentido pra você, a próxima etapa é simples: comenta VISITA ou me chama no direct. Eu te mando a planta, a simulação do financiamento, e a gente marca pra você ver essa sala ao vivo." | "Comenta VISITA" na caixa de comentário digitando. Fim: "Vilela Imóveis · CRECI 41.927-F" |
 
-**Gancho visual reserva** (se a trena não render bem no ensaio): o Bruno pequeno lá no fundo da sala vazia bate uma palma e o eco da sala responde, já falando a mesma frase. Os dois mostram o tamanho antes da primeira palavra (mecanismo 3.12).
+**Gancho visual reserva** (se o close com a trena não render bem no ensaio): o Bruno pequeno lá no fundo da sala vazia puxa a trena até a lente, ou bate uma palma e o eco da sala responde, já falando a mesma frase.
 
-**Por que essa ordem:** o Bruno abre em ação, como pedido, e a fita atravessando a sala é o tamanho virando imagem. A informação principal (o preço real) chega aos 5-9 s, antes da metade, como pede o banco de ganchos (3.2: revelar até a metade). O Bruno volta 5 vezes, e os blocos de takes nunca passam de 3 cortes. Os defeitos aparecem antes do CTA para quem chamar já saber o condomínio. Isso filtra curioso e evita frustração na visita.
+**Por que essa ordem:** o Bruno abre em close fazendo algo estranho (medir a câmera), o que dá motivo para parar de rolar; o estalo da trena marca o número, e o corte para a sala inteira mostra o tamanho. A informação principal (o preço real) chega aos 5-9 s, antes da metade, como pede o banco de ganchos (3.2: revelar até a metade). O Bruno volta 5 vezes, e os blocos de takes nunca passam de 3 cortes. Os defeitos aparecem antes do CTA para quem chamar já saber o condomínio. Isso filtra curioso e evita frustração na visita.
 
 **Se o preço mudar:** refazer a conta do contador e a fala do bloco 4. Se o desconto em relação à média ficar pequeno (menos de 15%), trocar para o conceito B ou C.
 
@@ -184,7 +184,7 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 
 | | Instagram | TikTok | Por quê |
 |---|---|---|---|
-| Quadro 0 | O Bruno com a trena em movimento + texto "165 m² · Mooca" | Mesma imagem, mas com a voz começando no frame 0 sem respiro | No TikTok do Bruno o público sai em 0:01-0:02; no IG os vencedores mostram o motivo no 1º quadro em texto |
+| Quadro 0 | O Bruno em close medindo a lente com a trena + texto "165 m² · Mooca" | Mesma imagem, mas com a voz começando no frame 0 sem respiro | No TikTok do Bruno o público sai em 0:01-0:02; no IG os vencedores mostram o motivo no 1º quadro em texto |
 | Duração | 30-32 s, como acima | Pode ir a 40-45 s: adicionar 2 takes da suíte e da academia e uma fala a mais sobre as reformas (elétrica e hidráulica) | Tours longos de imóveis comuns da ZL vencem no TikTok (busca) |
 | Legenda do post | "Apê de 165 m² na Mooca por R$ 845 mil. 3 quartos, suíte, vista. Comenta VISITA." | "Apartamento 3 quartos 165m² Mooca zona leste SP R$ 845 mil" (tipo + bairro + preço) | Legenda com tipo + bairro + preço é o padrão dos tours ZL que vencem no TikTok |
 | Capa | O Bruno na sala, pequeno no quadro, com "165 m² por R$ 845 mil" | Não se aplica | Testa a hipótese do raio-X (capa "COMPRE · REF" coincidiu com a queda) |
@@ -202,7 +202,7 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 
 ## Lista de takes para gravar (checklist do dia)
 
-1. Gancho: trena atravessando a sala até a lente (5 tentativas; levar uma trena de 10 m) e a reserva da palma com eco
+1. Gancho: close fechado do Bruno medindo a lente com a trena e soltando (5 tentativas; celular no tripé na altura do rosto) e a reserva no fundo da sala
 2. Sala, plano bem aberto, do canto mais distante (com e sem o Bruno)
 3. Chicote sala de estar → jantar
 4. Piso de madeira, câmera baixa
