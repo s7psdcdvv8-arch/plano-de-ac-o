@@ -85,7 +85,7 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 - **Âncora de preço (3.1 + ref. 4):** dizer o valor "pela média" antes do valor real. O número maior faz o real parecer o que é: quase metade.
 - **Escala (3.12, ref. 5):** a sala é o ativo. Plano bem aberto com o Bruno pequeno no fundo mostra 165 m² sem precisar de texto.
 - **Corretor em ação no quadro 0 (refs. 1, 2 e Dimas/tobogã):** o Bruno já está fazendo algo ligado ao diferencial (medir a sala) no primeiro quadro. É o mesmo princípio do corretor que desce o tobogã: a ação mostra o ponto forte antes de qualquer palavra.
-- **Explicação honesta do "porquê" (refs. 7 a 10):** "prédio antigo" deixa de ser defeito e vira o motivo de ser grande. Responde a desconfiança antes de ela virar comentário.
+- **Explicação honesta do "porquê" (refs. 7 a 10):** a idade do prédio, dita sem tom pejorativo ("de uma época em que se fazia apê grande"), vira o motivo de ser grande. Responde a desconfiança antes de ela virar comentário.
 - **CTA como próxima etapa:** o Bruno explica o que acontece depois do contato, o que tira o medo de "chamar e ser pressionado".
 
 ---
@@ -98,7 +98,7 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 - **Gancho:** o Bruno puxando a trena de uma ponta da sala vazia e a fita atravessando o quadro: "Pela média da Mooca, esse apartamento custaria um milhão e meio." Na tela: "165 m² · Mooca" e o contador subindo até R$ 1.500.000.
 - **Mecanismo:** âncora de preço + escala + revelação.
 - **Por que serve:** o preço por m² é o fato mais forte e verificável do imóvel. Repete o que já venceu no perfil do Bruno (preço que surpreende + ele em cena).
-- **Risco:** se a conta parecer enganosa, vira crítica. Por isso a fonte aparece na tela e o Bruno fala "prédio antigo" logo depois.
+- **Risco:** se a conta parecer enganosa, vira crítica. Por isso a fonte aparece na tela e o Bruno explica logo depois que é um apê "de uma época em que se fazia apartamento grande".
 - **Dificuldade:** baixa. **IG:** contador e texto fortes no quadro 0. **TikTok:** a fala começa no frame 0.
 
 ### B. "Apê com tamanho de casa"
@@ -163,11 +163,11 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 | 4 | 5-9 s | 🗣️ Bruno | O Bruno andando em direção à câmera pela sala, plano aberto | "Só que ele tá à venda por oitocentos e quarenta e cinco mil." | Contador cai até **R$ 845.000**, em verde |
 | 5 | 9-10 s | 🏠 Take | Corredor dos quartos, de baixo para cima | (música) | 3 QUARTOS · 1 SUÍTE |
 | 6 | 10-11 s | 🏠 Take | Suíte, chicote até o banheiro reformado | (música) | BANHEIRO REFORMADO |
-| 7 | 11-14 s | 🗣️ Bruno | Bruno na cozinha, apoiado na bancada, plano médio com a copa atrás | "Por que tão barato? Prédio antigo. E é por isso que ele é desse tamanho." | Legenda dinâmica; "PRÉDIO ANTIGO" em destaque |
+| 7 | 11-14 s | 🗣️ Bruno | Bruno na cozinha, apoiado na bancada, plano médio com a copa atrás | "E por que esse preço com esse tamanho? Ele é de uma época em que apartamento era feito grande de verdade." | Legenda dinâmica; "GRANDE DE VERDADE" em destaque |
 | 8 | 14-15 s | 🏠 Take | Copa, câmera passando | (música) | COPA |
 | 9 | 15-16 s | 🏠 Take | Porta da despensa abrindo | (música) | DESPENSA |
 | 10 | 16-17 s | 🏠 Take | Área de serviço separada | (música) | ÁREA DE SERVIÇO SEPARADA |
-| 11 | 17-19 s | 🗣️ Bruno | Bruno abre a janela da sala de costas e vira para a câmera | "Hoje ninguém mais faz apê assim. Olha essa vista." | Legenda dinâmica |
+| 11 | 17-19 s | 🗣️ Bruno | Bruno abre a janela da sala de costas e vira para a câmera | "Hoje é raro achar apê assim. Olha essa vista." | Legenda dinâmica |
 | 12 | 19-21,5 s | 🏠 Take | Vista da janela, movimento lateral lento (andar alto) | (música sobe) | "14º ANDAR" (só se confirmado) |
 | 13 | 21,5-24 s | 🗣️ Bruno | Bruno na sala, plano americano | "Agora, sendo honesto: condomínio de mil e seiscentos, uma vaga e sem varanda." | Os 3 itens aparecendo um a um, em branco (sem cor de alerta) |
 | 14 | 24-32 s | 🗣️ Bruno, CTA da próxima etapa | Mesmo lugar, um passo mais perto da lente | "Se fez sentido pra você, a próxima etapa é simples: comenta VISITA ou me chama no direct. Eu te mando a planta, a simulação do financiamento, e a gente marca pra você ver essa sala ao vivo." | "Comenta VISITA" na caixa de comentário digitando. Fim: "Vilela Imóveis · CRECI 41.927-F" |
@@ -178,7 +178,7 @@ Fonte: biblioteca e banco de ganchos do projeto. "Visto" = assistido no navegado
 
 **Se o preço mudar:** refazer a conta do contador e a fala do bloco 4. Se o desconto em relação à média ficar pequeno (menos de 15%), trocar para o conceito B ou C.
 
-**Cuidado com a frase do bloco 7:** se o prédio não for antigo, trocar por "Por que tão barato pelo tamanho? Planta de antigamente." Não afirmar ano sem confirmar.
+**Tom (pedido do Bruno, 23/10):** nunca chamar o prédio de velho ou antigo, nem o preço de barato. A ideia é "de uma época em que se fazia apê grande". Não afirmar ano sem confirmar.
 
 ## 8. Adaptação Instagram × TikTok
 
