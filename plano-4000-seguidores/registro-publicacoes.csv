@@ -1,0 +1,13 @@
+id,data_planejada,data_publicada,url,serie,estilo,imovel_ref,mecanismo_gancho,hipotese,variavel_testada,trial_reel,duracao_s,views_72h,alcance_72h,pct_nao_seguidores,pct_3s,tempo_medio_s,envios,salvos,comentarios,curtidas,seguidores_do_post,visitas_perfil_do_post,conversas,views_7d,alcance_7d,seguidores_7d,classe,decisao,obs
+P01,S0-S1,,,Achado da ZL,takes com corretor,AP4519,acao fisica (marreta),gesto + transformacao real passa de 42% em 3 s e 6 envios,gancho gesto x preco (trial),sim (abre com preco),,,,,,,,,,,,,,,,,,,
+P02,2026-10-31,,,Sabado de Historia,motion,Vila Ema,3.11 historia com numero,CTA de seguir + pergunta pessoal trazem >=3 seguidores e >=3 comentarios,fim com CTA de seguir (vs Mooca),nao,,,,,,,,,,,,,,,,,,,
+P03,S1,,,Achado da ZL,takes com corretor,Apto 165 m2 Mooca,acao fisica (trena) + preco por m2,ancora preco medio -> preco real gera envios,,nao,,,,,,,,,,,,,,,,,,,
+P04,S1,,,Vilela Responde,Bruno para a camera + numeros,-,3.1 adaptado (numero que doi primeiro),Bruno no quadro 0 sobe 3 s de 29.9% para >=42% e salvos >=5,quem abre (Bruno x motion),nao,,,,,,,,,,,,,,,,,,,
+P05,S1,,,Laboratorio,tour POV,[Bruno indica],3.15 pergunta fixa Voce moraria,pergunta de opiniao gera >=10 comentarios,formato opiniao,nao,,,,,,,,,,,,,,,,,,,
+P06,S1,,,Achado da ZL,takes com corretor,[mais barato do mes],3.1 preco na 1a frase,mecanismo provado volta a passar da regua,gancho preco (vs P01 gesto),nao,,,,,,,,,,,,,,,,,,,
+P07,2026-11-07,,,Sabado de Historia,motion,[bairro],3.11,repete o vencedor de P02,,nao,,,,,,,,,,,,,,,,,,,
+P08,S2,,,Achado da ZL,takes com corretor,SO2466,ver roteiro,,,nao,,,,,,,,,,,,,,,,,,,
+P09,S2,,,Laboratorio,takes com corretor,[imovel com defeito],3.5 filtro negativo,defeito dito gera mais envios e salvos,defeito como gancho,nao,,,,,,,,,,,,,,,,,,,
+P10,S2,,,Vilela Responde,Bruno para a camera + numeros,-,3.8 renda na 1a frase,renda na 1a frase da mais salvos que lista de custos,tema renda x custos,nao,,,,,,,,,,,,,,,,,,,
+P11,S2,,,Achado da ZL,takes com corretor,[sobrado fachada comum],3.3 por fora x por dentro,,,nao,,,,,,,,,,,,,,,,,,,
+P12,2026-11-14,,,Sabado de Historia,motion,[bairro],3.11,,,nao,,,,,,,,,,,,,,,,,,,
